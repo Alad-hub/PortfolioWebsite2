@@ -17,6 +17,20 @@ body {
 }
 
 
+hr {
+  border: solid;
+  border-radius: 10px;
+  border-color: white;
+  border-width: 2px;
+  background-color: #787878; 
+  height: 4px;
+  margin: 6px;
+  
+
+  
+  
+}
+
 
 h1 {
   display: inline-block;
@@ -34,20 +48,6 @@ h1 {
 
 
 
-
-hr {
-  border: solid;
-  border-radius: 10px;
-  border-color: black;
-  border-width: 2px;
-  background-color: #787878; 
-  height: 4px;
-  margin: 6px;
-  
-
-  
-  
-}
 
 h3 {
   display: inline-block;
